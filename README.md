@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Nishith 👋
 
-<!--
-**nishitshipsit/nishitshipsit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud and backend engineer based in Mangaluru, India. I learn in public and ship side projects.
 
-Here are some ideas to get you started:
+## Right now
+- Setting up this space and getting my first projects started
+- Working on cloud and backend fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Coming up
+- Side projects, pushed here as they take shape
+- Notes on what I learn along the way
+
+## Notes and writing
+Blog coming soon.
